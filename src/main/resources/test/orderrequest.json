@@ -1,0 +1,15 @@
+{
+  "productId": [
+    {
+      "id": "e963f3d8-2e19-4c27-b77d-119d8d645135",
+      "name": "ddd",
+      "price": 2.0
+    },
+    {
+      "id": "e963f3d8-2e19-4c27-b77d-119d8d645136",
+      "name": "ddd",
+      "price": 2.0
+    }
+  ],
+  "status": "PENDING"
+}
